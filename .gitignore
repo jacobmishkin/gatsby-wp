@@ -1,0 +1,12 @@
+# Project dependencies
+.cache
+node_modules/
+
+# Build directory
+/public
+
+#General
+.vscode
+.DS_STORE
+*.log
+thumbs.db
